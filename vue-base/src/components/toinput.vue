@@ -138,8 +138,9 @@ export default {
 </script>
 
 <style scoped>
+/* 页面样式 */
 body{
-    background-color: #eee; /* 页面背景色 */
+    background-color: #eee;
     margin: 0;
     padding: 20px;
 }
