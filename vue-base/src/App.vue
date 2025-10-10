@@ -13,13 +13,7 @@ export default {
   },
   data() {
     return {
-      showfinish: false,
-      todoList: [],
-      finishList: []
     }
-  },
-  methods: {
-    
   }
 }
 </script>
